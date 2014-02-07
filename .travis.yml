@@ -5,6 +5,11 @@ php:
   - 5.4
   - 5.5
   # - hhvm
+  
+notifications:
+  hipchat:
+    rooms:
+      - 9fd05a21c706cbf9baad0222333d23@GVN.Dev
 
 # matrix:
 #   allow_failures:
